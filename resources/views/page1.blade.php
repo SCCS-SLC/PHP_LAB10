@@ -1,4 +1,5 @@
 <?php
+    //SCCS - LAB10
     $username = $_GET["name"];
 ?>
 

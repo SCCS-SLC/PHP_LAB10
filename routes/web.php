@@ -13,6 +13,7 @@ use App\Http\Controllers\LoginController;
 | contains the "web" middleware group. Now create something great!
 |
 */
+//SCCS - LAB10
 
 Route::get('/', function () {
     return view('home');
